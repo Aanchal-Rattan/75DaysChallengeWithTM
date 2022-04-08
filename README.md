@@ -1,6 +1,6 @@
 # 75DaysChallengeWithTM
 
-# Start date: 2 April 2022
+# Start date: 1 April 2022
 
 #75DaysChallengeWithTM by @TechMaestro and @Karan Garg that covers DSA Coding basic to expert level and makes you placement ready.
 
